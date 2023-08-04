@@ -1,0 +1,5 @@
+tortoise-orm
+numpy
+loguru
+httpx
+aiofiles
